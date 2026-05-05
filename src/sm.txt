@@ -1,0 +1,11 @@
+assignment
+
+folder structure
+
+remove li and use array
+
+then the next page
+
+react icons
+
+crud operation
