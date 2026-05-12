@@ -1,11 +1,6 @@
 assignment
 
-folder structure
+username, email, password
 
-remove li and use array
 
-then the next page
-
-react icons
-
-crud operation
+KS87Q2 
